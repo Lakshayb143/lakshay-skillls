@@ -1,7 +1,7 @@
 {
   "name": "skills",
   "description": "Reusable agent skills in the open Agent Skills format.",
-  "owner": { "name": "OWNER" },
+  "owner": {"name": "Lakshayb143"},
   "plugins": [
     {
       "name": "video-and-animation",

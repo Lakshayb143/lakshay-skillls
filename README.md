@@ -14,7 +14,7 @@ other agents that read skills.
 ### Any agent, from a clone (recommended)
 
 ```bash
-git clone https://github.com/OWNER/REPO.git ~/skills
+git clone https://github.com/Lakshayb143/lakshay-skillls.git ~/skills
 ~/skills/install.sh
 ```
 
@@ -35,7 +35,7 @@ Other options:
 ### Any agent, without a clone
 
 ```bash
-npx skills add OWNER/REPO -g
+npx skills add Lakshayb143/lakshay-skillls -g
 ```
 
 The [skills CLI](https://github.com/vercel-labs/skills) knows where each agent
@@ -46,7 +46,7 @@ keeps its skills, and asks which agents to install for. Update later with
 ### Claude Code as a plugin
 
 ```bash
-claude plugin marketplace add OWNER/REPO
+claude plugin marketplace add Lakshayb143/lakshay-skillls
 claude plugin install video-and-animation@skills
 ```
 
