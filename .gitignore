@@ -1,0 +1,6 @@
+# Words that must never appear in this repo (names, projects, accounts).
+# One per line. It stays on your machine; see scripts/check.sh.
+.private-words
+dist/
+*.zip
+.DS_Store

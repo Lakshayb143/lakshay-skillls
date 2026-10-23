@@ -1,0 +1,14 @@
+{
+  "name": "skills",
+  "description": "Reusable agent skills in the open Agent Skills format.",
+  "owner": { "name": "OWNER" },
+  "plugins": [
+    {
+      "name": "video-and-animation",
+      "description": "Pick HyperFrames, Remotion, an animated SVG, a looping clip or an interactive figure for the task, then make it.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/video-and-animation"]
+    }
+  ]
+}
